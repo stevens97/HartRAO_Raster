@@ -1,5 +1,4 @@
-# Solar Raster Scan Tutorial
-
+# HartRAO Raster Scan Tutorial
 
 ## What is a Solar Raster Scan?
 
