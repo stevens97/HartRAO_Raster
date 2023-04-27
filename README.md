@@ -16,6 +16,11 @@ The HartRAO (Hartebeesthoek Radio Astronomy Observatory) radio telescope is a la
 
 ## Prerequisites for using this program:
 
+- scipy
+- numpy
+- astropy v 3.2.1
+- matplotlib v 3.0.3
+- seaborn v 0.9.0
 
 **NOTE**: Original data is not provided due to copyright/privacy.
 This code is for educational purposes only.
