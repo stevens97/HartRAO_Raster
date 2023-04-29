@@ -4,7 +4,7 @@
 Photo credit: http://www.hartrao.ac.za/gallery/hartrao_thomas_abbott_4229_HDR.jpg
 ---------------------------------------------------------------------------------------------------------------
 
-
+<img src="https://raw.githubusercontent.com/stevens97/HartRAO_Raster_Scan_Tutorial/main/Sample.png" width="50%" height="50%">
 
 ## What is a Solar Raster Scan?
 
