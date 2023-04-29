@@ -1,5 +1,11 @@
 # HartRAO Raster Scan Tutorial
 
+<img src="http://www.hartrao.ac.za/gallery/hartrao_thomas_abbott_4229_HDR.jpg" width="50%" height="50%">
+Photo credit: http://www.hartrao.ac.za/gallery/hartrao_thomas_abbott_4229_HDR.jpg
+---------------------------------------------------------------------------------------------------------------
+
+
+
 ## What is a Solar Raster Scan?
 
 A solar raster scan is a technique used in solar astronomy to create detailed images of the Sun's atmosphere. It involves systematically scanning the solar disk and recording the intensity of solar radiation at each point. The resulting data can then be used to create a two-dimensional image of the Sun at a particular wavelength or range of wavelengths.
